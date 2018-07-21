@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BreathSriLanka</string>
+    <string name="error_message_username">Enter UserName</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Match</string>
+    <string name="error_valid_email_password">Wrong Email Or Password</string>
+</resources>
